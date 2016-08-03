@@ -1,4 +1,3 @@
-layout_spectrum: 0.5705450049135834
 typography_spectrum: 0.9713788775261492
 color:
   brandStrength: 0.03940755897201598
@@ -11,4 +10,11 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.5705450049135834
+author:
+  name: Toby Statham
+  email: toby@wutek.co.uk
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdd62d7b-56b3-4029-a048-cba8a503fa13.png
 name: wutek
+title: Get Better
