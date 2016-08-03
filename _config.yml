@@ -1,0 +1,14 @@
+layout_spectrum: 0.5705450049135834
+typography_spectrum: 0.9713788775261492
+color:
+  brandStrength: 0.03940755897201598
+  lightness: 0.6166713149286807
+  saturation: 0.5475304753053933
+  rhythmicContrast: 0.8807818333152682
+  brandColors:
+    - '#FFFFFF'
+    - '#038E19'
+    - '#33A300'
+    - '#69CB22'
+    - '#9BD96C'
+name: wutek
