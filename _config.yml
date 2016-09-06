@@ -14,8 +14,10 @@ layout_spectrum: 0.5705450049135834
 author:
   name: Toby Statham
   email: toby@wutek.co.uk
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/99000fa3-274f-4b03-a678-8ca9d0f3694b.png
 name: wutek
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8d3e1d7-1e50-4aad-99ab-8ad4144a9194.ico
 title: Get Better
 description: 'Better solutions, better Apps, better Add-ins.'
